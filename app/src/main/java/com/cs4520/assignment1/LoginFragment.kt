@@ -60,5 +60,5 @@ class LoginFragment : Fragment() {
         usernameEditText.text.clear()
         passwordEditText.text.clear()
     }
-    
+
 }
